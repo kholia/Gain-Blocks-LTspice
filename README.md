@@ -8,6 +8,8 @@ NB: These examples were tested with LTspice 24.1.7 from April, 2025.
 
 References:
 
+- https://github.com/transmitterdan/s2spice
+
 - https://groups.io/g/LTspice/files/z_yahoo/Tut/S-Parameter
 
 - https://groups.io/g/LTspice/files/z_yahoo/Tut/S-Parameter/S-Parameter%20to%20SPICE
